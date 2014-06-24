@@ -1,0 +1,1 @@
+APP_ABI := all #armeabi armeabi-v7a mips x86
